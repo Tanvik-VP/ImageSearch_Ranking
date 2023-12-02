@@ -3,8 +3,6 @@ This repository hosts the code and documentation for a semantic image search ser
 The task is to generate a ranked list of images which are semantically similar to the query image
 
 
-data: (https://drive.google.com/drive/folders/1kLMG1pa3xV_TwK0DnibSbjYrj_hjGttf?usp=share_link)
-add this data into `data/ folder in your project
 ### Key Features:
 
 Uses a dataset of 1000 images across 20 categories from caltech 101.
